@@ -1,36 +1,44 @@
-# Heart-disease-prediction-classification
-Overview
+# HeartGuardian: Predicting Cardiac Wellness
+## Overview
+
 This project aims to predict the likelihood of heart disease in individuals based on various health parameters. It utilizes machine learning classification techniques to analyze a dataset containing a combination of demographic information, lifestyle factors, and medical test results. The predictive model helps identify individuals at risk of heart disease, enabling early intervention and personalized healthcare.
 
-Key Features
-Data Exploration: Comprehensive exploration of the dataset to understand patterns, correlations, and potential factors influencing heart disease.
+## Key Features
 
-Data Preprocessing: Cleaning, handling missing values, and transforming raw data into a format suitable for machine learning algorithms.
+- Data Exploration: Comprehensive exploration of the dataset to understand patterns, correlations, and potential factors influencing heart disease.
 
-Feature Selection: Identification and selection of relevant features that contribute significantly to the predictive model.
+- Data Preprocessing: Cleaning, handling missing values, and transforming raw data into a format suitable for machine learning algorithms.
 
-Model Selection: Implementation of multiple classification algorithms such as Logistic Regression, Random Forest, and Support Vector Machines. Comparison of their performances to choose the most suitable model.
+- Feature Selection: Identification and selection of relevant features that contribute significantly to the predictive model.
 
-Model Evaluation: Rigorous evaluation of the chosen model using metrics such as accuracy, precision, recall, and F1-score. Utilization of cross-validation to ensure robustness.
+- Model Selection: Implementation of multiple classification algorithms such as Logistic Regression, Random Forest, and Support Vector Machines. Comparison of their performances to choose the most suitable model.
 
-Hyperparameter Tuning: Fine-tuning of model parameters to optimize performance and generalization.
+- Model Evaluation: Rigorous evaluation of the chosen model using metrics such as accuracy, precision, recall, and F1-score. Utilization of cross-validation to ensure robustness.
 
-Visualization: Clear and informative visualizations of key insights, model performance, and feature importance.
+- Hyperparameter Tuning: Fine-tuning of model parameters to optimize performance and generalization.
 
-Deployment: Optionally, a simple deployment script or API for making predictions based on the trained model.
+- Visualization: Clear and informative visualizations of key insights, model performance, and feature importance.
 
-Technologies Used
+- Deployment: Optionally, a simple deployment script or API for making predictions based on the trained model.
+
+## Technologies Used 
+
 Python
-Jupyter Notebooks
+
+Jupyter Notebook
+
 scikit-learn
+
 Pandas
+
 Matplotlib
+
 Seaborn
+
 Machine Learning Algorithms
 
-Dataset
-The dataset used in this project is sourced from [Heart.csv]. It includes 
-[Data contains;
+## Dataset
+The dataset used in this project is sourced from Heart.csv it includes 
 
 Age - age in years
 
@@ -59,7 +67,12 @@ Ca - number of major vessels (0-3) colored by flourosopy
 Thal - 3 = normal; 6 = fixed defect; 7 = reversable defect
 
 AHD - have disease or not (1=yes, 0=no)
-].
 
+### Screenshots:
+ ### Home Page:
+<img src="https://github.com/Rajkadam21/images/blob/main/Screenshot%202024-02-02%20131936.png" />
+
+ ### Result:
+ <img src="https://github.com/Rajkadam21/images/blob/main/Screenshot%202024-02-02%20132130.png" />
 
 
