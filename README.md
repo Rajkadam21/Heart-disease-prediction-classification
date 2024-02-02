@@ -23,21 +23,21 @@ This project aims to predict the likelihood of heart disease in individuals base
 
 ## Technologies Used 
 
-Python
+<a href ="https://developer.mozilla.org/en-US/docs/Glossary/Python">Python</a>
 
-Jupyter Notebook
+<a href ="https://www.datacamp.com/tutorial/tutorial-jupyter-notebook">Jupyter Notebook</a>
 
-scikit-learn
+<a href ="https://devdocs.io/scikit_learn/">scikit-learn</a>
 
-Pandas
+<a href ="https://devdocs.io/pandas~0.25/">Pandas</a>
 
-Matplotlib
+<a href ="https://matplotlib.org/stable/users/index.html">Matplotlib</a>
 
-Seaborn
+<a href ="https://seaborn.pydata.org/tutorial.html">Seaborn</a>
 
-Machine Learning Algorithms 
+<a href="https://machinelearning101.readthedocs.io/en/latest/_pages/01_introduction.html">Machine learning</a> 
 
-Flask
+<a href="https://pythonbasics.org/what-is-flask-python/">Flask</a>
 
 ## Dataset
 The dataset used in this project is sourced from Heart.csv it includes 
