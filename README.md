@@ -35,7 +35,9 @@ Matplotlib
 
 Seaborn
 
-Machine Learning Algorithms
+Machine Learning Algorithms 
+
+Flask
 
 ## Dataset
 The dataset used in this project is sourced from Heart.csv it includes 
