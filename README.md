@@ -25,7 +25,11 @@ This project aims to predict the likelihood of heart disease in individuals base
 
 <a href ="https://developer.mozilla.org/en-US/docs/Glossary/Python">Python</a>
 
-<a href ="https://www.datacamp.com/tutorial/tutorial-jupyter-notebook">Jupyter Notebook</a>
+<a href ="https://developer.mozilla.org/en-US/docs/Web/HTML">Html</a>
+
+<a href ="https://developer.mozilla.org/en-US/docs/Web/CSS">Css</a>
+
+<a href="https://machinelearning101.readthedocs.io/en/latest/_pages/01_introduction.html">Machine learning</a> 
 
 <a href ="https://devdocs.io/scikit_learn/">scikit-learn</a>
 
@@ -35,9 +39,10 @@ This project aims to predict the likelihood of heart disease in individuals base
 
 <a href ="https://seaborn.pydata.org/tutorial.html">Seaborn</a>
 
-<a href="https://machinelearning101.readthedocs.io/en/latest/_pages/01_introduction.html">Machine learning</a> 
-
 <a href="https://pythonbasics.org/what-is-flask-python/">Flask</a>
+
+<a href ="https://www.datacamp.com/tutorial/tutorial-jupyter-notebook">Jupyter Notebook</a>
+
 
 ## Dataset
 The dataset used in this project is sourced from Heart.csv it includes 
