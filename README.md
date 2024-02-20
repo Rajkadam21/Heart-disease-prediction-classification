@@ -75,7 +75,7 @@ Thal - 3 = normal; 6 = fixed defect; 7 = reversable defect
 
 AHD - have disease or not (1=yes, 0=no)
 
-### Screenshots:
+## Screenshots:
  ### Home Page:
 <img src="https://github.com/Rajkadam21/images/blob/main/Screenshot%202024-02-02%20131936.png" />
 
